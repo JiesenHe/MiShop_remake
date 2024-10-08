@@ -6,6 +6,6 @@
 > 
 > 这是一个复制备份库
 > 
-> 原github仓库请访问：https://github.com/pqqqYa
+> github仓库请访问：https://github.com/pqqqYa
 > 
-> 国内网络请访问gitee：https://gitee.com/jiesenhe
+> 国内网络gitee仓库请访问gitee：https://gitee.com/jiesenhe
